@@ -305,9 +305,9 @@ public LockManager jdkLockManager() {
 
     组件的类图如下，`Limiter`作为一个顶级接口，提供了扩展其他组件的能力
 
-![](C:\Users\24191\Desktop\limiter.jpg)
+![](https://githubimage.oss-cn-beijing.aliyuncs.com/limiter.jpg)
 
-![](C:\Users\24191\Desktop\manager.jpg)
+![](https://githubimage.oss-cn-beijing.aliyuncs.com/manager.jpg)
 
 例子代码
 
